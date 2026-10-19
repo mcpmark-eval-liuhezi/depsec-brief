@@ -1,0 +1,11 @@
+{
+  "name": "depsec-brief",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pinned dependencies under review for the quarterly dependency-security brief.",
+  "dependencies": {
+    "lodash": "4.17.20",
+    "node-fetch": "2.6.5",
+    "minimist": "1.2.5"
+  }
+}
